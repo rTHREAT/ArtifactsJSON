@@ -6,7 +6,7 @@
                 "layout": "flat", 
                 "showName": true
         }, 
-        "name": "67427.Backdoor", 
+        "name": "47441.Backdoor", 
         "versions": {
                 "attack": "8", 
                 "navigator": "4.1", 
@@ -53,7 +53,7 @@
                 }, 
                 {
                         "comment": "", 
-                        "techniqueID": "T1021", 
+                        "techniqueID": "T1027", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 
@@ -61,7 +61,7 @@
                 }, 
                 {
                         "comment": "", 
-                        "techniqueID": "T1021.001", 
+                        "techniqueID": "T1027.002", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 
@@ -85,7 +85,7 @@
                 }, 
                 {
                         "comment": "", 
-                        "techniqueID": "T1057", 
+                        "techniqueID": "T1112", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 
@@ -110,14 +110,6 @@
                 {
                         "comment": "", 
                         "techniqueID": "T1547", 
-                        "color": "#e60d0d", 
-                        "showSubtechniques": true, 
-                        "enabled": true, 
-                        "metadata": []
-                }, 
-                {
-                        "comment": "", 
-                        "techniqueID": "T1547.001", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 

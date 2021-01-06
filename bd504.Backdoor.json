@@ -6,7 +6,7 @@
                 "layout": "flat", 
                 "showName": true
         }, 
-        "name": "67427.Backdoor", 
+        "name": "bd504.Backdoor", 
         "versions": {
                 "attack": "8", 
                 "navigator": "4.1", 
@@ -69,6 +69,22 @@
                 }, 
                 {
                         "comment": "", 
+                        "techniqueID": "T1027", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
+                        "techniqueID": "T1027.002", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
                         "techniqueID": "T1056", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
@@ -86,6 +102,22 @@
                 {
                         "comment": "", 
                         "techniqueID": "T1057", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
+                        "techniqueID": "T1070", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
+                        "techniqueID": "T1070.004", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 
@@ -126,14 +158,6 @@
                 {
                         "comment": "", 
                         "techniqueID": "T1547.006", 
-                        "color": "#e60d0d", 
-                        "showSubtechniques": true, 
-                        "enabled": true, 
-                        "metadata": []
-                }, 
-                {
-                        "comment": "", 
-                        "techniqueID": "T1571", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 

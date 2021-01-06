@@ -6,7 +6,7 @@
                 "layout": "flat", 
                 "showName": true
         }, 
-        "name": "67427.Backdoor", 
+        "name": "9853b.Backdoor", 
         "versions": {
                 "attack": "8", 
                 "navigator": "4.1", 
@@ -53,6 +53,14 @@
                 }, 
                 {
                         "comment": "", 
+                        "techniqueID": "T1016", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
                         "techniqueID": "T1021", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
@@ -62,6 +70,22 @@
                 {
                         "comment": "", 
                         "techniqueID": "T1021.001", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
+                        "techniqueID": "T1046", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
+                        "techniqueID": "T1055", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 
@@ -85,7 +109,7 @@
                 }, 
                 {
                         "comment": "", 
-                        "techniqueID": "T1057", 
+                        "techniqueID": "T1112", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 
@@ -109,7 +133,7 @@
                 }, 
                 {
                         "comment": "", 
-                        "techniqueID": "T1547", 
+                        "techniqueID": "T1497", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 
@@ -117,7 +141,23 @@
                 }, 
                 {
                         "comment": "", 
-                        "techniqueID": "T1547.001", 
+                        "techniqueID": "T1543", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
+                        "techniqueID": "T1543.003", 
+                        "color": "#e60d0d", 
+                        "showSubtechniques": true, 
+                        "enabled": true, 
+                        "metadata": []
+                }, 
+                {
+                        "comment": "", 
+                        "techniqueID": "T1547", 
                         "color": "#e60d0d", 
                         "showSubtechniques": true, 
                         "enabled": true, 
