@@ -1,5 +1,5 @@
 {
-        "name": "5e629.Trojan",
+        "name": "6a22f.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -87,22 +87,6 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1070",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1070.004",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1114",
                         "color": "#e60d0d",
                         "comment": "",
@@ -136,14 +120,6 @@
                 },
                 {
                         "techniqueID": "T1547",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1547.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

@@ -1,5 +1,5 @@
 {
-        "name": "5e629.Trojan",
+        "name": "5de13.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -32,22 +32,6 @@
         "techniques": [
                 {
                         "techniqueID": "T1012",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1021",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1021.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -103,14 +87,6 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1114",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1204",
                         "color": "#e60d0d",
                         "comment": "",
@@ -136,14 +112,6 @@
                 },
                 {
                         "techniqueID": "T1547",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1547.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

@@ -1,5 +1,5 @@
 {
-        "name": "5e629.Trojan",
+        "name": "007a2.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -136,14 +136,6 @@
                 },
                 {
                         "techniqueID": "T1547",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1547.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
