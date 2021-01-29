@@ -1,5 +1,5 @@
 {
-        "name": "Horseleader.Ransom.F",
+        "name": "AgentTesla.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -31,7 +31,7 @@
         "hideDisabled": false,
         "techniques": [
                 {
-                        "techniqueID": "T1012",
+                        "techniqueID": "T1056",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -39,15 +39,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1027",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1047",
+                        "techniqueID": "T1056.004",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -63,7 +55,39 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1486",
+                        "techniqueID": "T1070",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1070.004",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1112",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1204",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1204.002",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

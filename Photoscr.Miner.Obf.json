@@ -1,5 +1,5 @@
 {
-        "name": "Horseleader.Ransom.F",
+        "name": "Photoscr.Miner.Obf",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -39,7 +39,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1027",
+                        "techniqueID": "T1021",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -47,7 +47,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1047",
+                        "techniqueID": "T1021.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -55,7 +55,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1057",
+                        "techniqueID": "T1055",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -63,7 +63,63 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1486",
+                        "techniqueID": "T1082",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1095",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1112",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1114",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1119",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1120",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1204",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1204.002",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

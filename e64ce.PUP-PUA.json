@@ -1,5 +1,5 @@
 {
-        "name": "Horseleader.Ransom.F",
+        "name": "e64ce.PUP-PUA",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -39,7 +39,39 @@
                         "showSubtechniques": true
                 },
                 {
+                        "techniqueID": "T1021",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1021.001",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
                         "techniqueID": "T1027",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1027.002",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1036",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -55,7 +87,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1057",
+                        "techniqueID": "T1055",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -63,7 +95,39 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1486",
+                        "techniqueID": "T1056",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1056.004",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1070",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1112",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1114",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -80,6 +144,22 @@
                 },
                 {
                         "techniqueID": "T1547.006",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1553",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1553.002",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
