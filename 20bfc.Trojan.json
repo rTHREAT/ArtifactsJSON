@@ -1,5 +1,5 @@
 {
-        "name": "18b0c.Trojan",
+        "name": "20bfc.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -30,6 +30,14 @@
         },
         "hideDisabled": false,
         "techniques": [
+                {
+                        "techniqueID": "T1010",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
                 {
                         "techniqueID": "T1012",
                         "color": "#e60d0d",
@@ -80,22 +88,6 @@
                 },
                 {
                         "techniqueID": "T1056.004",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1070",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1070.004",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

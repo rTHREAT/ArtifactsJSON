@@ -1,5 +1,5 @@
 {
-        "name": "18b0c.Trojan",
+        "name": "19a29.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -120,14 +120,6 @@
                 },
                 {
                         "techniqueID": "T1204.002",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1497",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
