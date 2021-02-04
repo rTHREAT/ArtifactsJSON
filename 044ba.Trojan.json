@@ -1,5 +1,5 @@
 {
-        "name": "45fef.Trojan",
+        "name": "044ba.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -64,22 +64,6 @@
                 },
                 {
                         "techniqueID": "T1055",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1056",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1056.004",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
