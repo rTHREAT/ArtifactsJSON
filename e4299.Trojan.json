@@ -1,5 +1,5 @@
 {
-        "name": "e0f7c.Trojan",
+        "name": "e4299.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -39,7 +39,23 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1016",
+                        "techniqueID": "T1021",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1021.001",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1055",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -71,7 +87,31 @@
                         "showSubtechniques": true
                 },
                 {
+                        "techniqueID": "T1070",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1070.004",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
                         "techniqueID": "T1112",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1114",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -103,7 +143,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1547.001",
+                        "techniqueID": "T1547.006",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -111,7 +151,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1547.006",
+                        "techniqueID": "T1571",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

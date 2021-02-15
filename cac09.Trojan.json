@@ -1,5 +1,5 @@
 {
-        "name": "e0f7c.Trojan",
+        "name": "cac09.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -39,14 +39,6 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1016",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1056",
                         "color": "#e60d0d",
                         "comment": "",
@@ -63,15 +55,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1057",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1112",
+                        "techniqueID": "T1114",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
