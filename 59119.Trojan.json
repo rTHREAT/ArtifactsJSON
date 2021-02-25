@@ -1,5 +1,5 @@
 {
-        "name": "82881.Trojan",
+        "name": "59119.Trojan",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -30,14 +30,6 @@
         },
         "hideDisabled": false,
         "techniques": [
-                {
-                        "techniqueID": "T1010",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
                 {
                         "techniqueID": "T1012",
                         "color": "#e60d0d",
