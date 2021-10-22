@@ -1,8 +1,8 @@
 {
         "name": "4e79e.Trojan",
         "versions": {
-                "attack": "9",
-                "navigator": "4.3",
+                "attack": "10",
+                "navigator": "4.5.1",
                 "layer": "4.2"
         },
         "domain": "enterprise-attack",
