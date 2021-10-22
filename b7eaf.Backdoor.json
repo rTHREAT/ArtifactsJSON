@@ -8,8 +8,8 @@
         },
         "name": "b7eaf.Backdoor",
         "versions": {
-                "attack": "9",
-                "navigator": "4.3",
+                "attack": "10",
+                "navigator": "4.5.1",
                 "layer": "4.2"
         },
         "gradient": {
