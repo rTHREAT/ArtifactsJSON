@@ -9,8 +9,8 @@
         "name": "1f08e.Trojan",
         "versions": {
                 "attack": "10",
-                "navigator": "4.5.1",
-                "layer": "4.2"
+                "navigator": "4.5.5",
+                "layer": "4.3"
         },
         "gradient": {
                 "colors": [
