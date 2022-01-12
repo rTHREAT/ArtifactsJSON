@@ -8,9 +8,9 @@
         },
         "name": "8c64d.Backdoor",
         "versions": {
-                "attack": "9",
-                "navigator": "4.3",
-                "layer": "4.2"
+                "attack": "10",
+                "navigator": "4.5.5",
+                "layer": "4.3"
         },
         "gradient": {
                 "colors": [
