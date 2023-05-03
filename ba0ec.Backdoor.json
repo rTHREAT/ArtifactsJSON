@@ -8,9 +8,9 @@
         },
         "name": "ba0ec.Backdoor",
         "versions": {
-                "attack": "10",
-                "navigator": "4.5.1",
-                "layer": "4.2"
+                "attack": "13",
+                "navigator": "4.8.1",
+                "layer": "4.4"
         },
         "gradient": {
                 "colors": [
