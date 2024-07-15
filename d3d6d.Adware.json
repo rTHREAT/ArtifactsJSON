@@ -1,9 +1,9 @@
 {
         "name": "d3d6d.Adware",
         "versions": {
-                "attack": "13",
-                "navigator": "4.8.1",
-                "layer": "4.4"
+                "attack": "15.1",
+                "navigator": "5.0.1",
+                "layer": "4.5"
         },
         "domain": "enterprise-attack",
         "description": "",
